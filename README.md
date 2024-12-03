@@ -61,7 +61,7 @@ response = invoke_claude(
 )
 ```
 
-## 결과 예시
+### 결과 예시
 
 <img width="765" alt="image" src="https://github.com/user-attachments/assets/f1f28e94-5a15-4f03-90af-38043dca9dfb">
 
