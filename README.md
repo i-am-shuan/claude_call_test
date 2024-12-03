@@ -61,6 +61,11 @@ response = invoke_claude(
 )
 ```
 
+## 결과 예시
+
+<img width="765" alt="image" src="https://github.com/user-attachments/assets/f1f28e94-5a15-4f03-90af-38043dca9dfb">
+
+
 ## 주요 기능
 
 - Claude 3 Sonnet 모델 호출
@@ -85,5 +90,5 @@ response = invoke_claude(
 - 적절한 IAM 권한이 필요합니다.
 - 리전이 'us-east-1'로 설정되어 있습니다. 필요시 변경하세요.
 
-<img width="765" alt="image" src="https://github.com/user-attachments/assets/f1f28e94-5a15-4f03-90af-38043dca9dfb">
+
 
